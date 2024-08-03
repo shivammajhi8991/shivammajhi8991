@@ -2,7 +2,7 @@
 
 <p align="left">✨ Learning and growing with every line of code.<br><br>📚 Currently Learning Full-Stack Development (Backend & Frontend)<br><br>🎯 Goals: Grow and learn every day. Think of new ideas.<br><br>🎲 Fun Fact: I love playing musical instruments like the guitar and piano.<br><br>🚀 What I Do: Backend & Frontend Development<br><br>💡 Let's Connect: Check out my projects and let's collaborate!</p>
 
-<div style="float: right; margin-left: 20px;">
+<div style="float: right; margin-left: 100px;">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWR4YnR6aHVhMjd1OW5zdnZmN2IyeHQyYW9sem9wNnpiYmYwaHZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 </div>
 
